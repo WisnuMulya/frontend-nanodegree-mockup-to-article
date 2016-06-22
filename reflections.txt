@@ -1,9 +1,57 @@
-You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+You've learned a lot about web development so far. I want you to take a moment
+to write down your thoughts about web development here. Answer the following
+questions:
   * What new skills have you learned?
   * What has been easy?
   * What has been difficult?
-  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  * How have you used the problem solving strategies from the first project to
+    overcome challenges so far?
 
 ---
 
-Your response goes here!
+* What new skills have you learned?
+
+  I learned a lot about how to establish a decent web developer environment and
+  what is the common workflow that web developers have. I had learned one thing
+  or two about HTML structure, so I had been already familiar with it. However,
+  I really learned significantly that there are, in fact, a lot of HTML tags
+  that I haven't known yet and I only need to refer to the [MDN website](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) to try
+  to find the appropriate semantic tag for any element I need. For example, I
+  just knew that there is a tag for a superscript element or a figure element
+  and its caption.
+
+  I also learned a lot about other text editors that I haven't been familiar yet
+  like Emacs, Vim, or even Atom. I had only been using Sublime Text 3 for
+  writing codes, but because of this course, now I am doing this project using
+  Atom and it feels exciting to try new things!
+
+* What has been easy?
+
+  For me, what has been easy is learning HTML structure since I have been taking
+  other online courses before this that taught me about high-level web
+  development programming languages: HTML, CSS, JS.
+
+* What has been difficult?
+
+  The thing that I found the most difficult is when trying to find the right
+  text editor for me, because even though Sublime Text 3 and Atom are easy
+  enough to use and understand, Emacs and Vim have quite a steep learning
+  curve and I should tackle that first just to know whether I like it or not.
+
+* How have you used the problem solving strategies from the first project to
+  overcome challenges so far?
+
+  I haven't met any significant problem yet throughout this journey. However,
+  one tips from the first project that I have applied here is that I have to
+  focus and avoid distractions. There are a lot of interesting new things that
+  I learned from doing this course and it is really tempting to go through each
+  one of them in depth. However, if I comply to that desire, I wouldn't progress
+  far enough because I would be distracted and thus, what I did is that I only
+  went through each of them superficially and just grabbed the most important
+  thing from them and then got back to my learning path ASAP.
+
+  For example, the HTML element reference that is referred has a lot of elements
+  that I haven't heard about before and it is really tempting to go through each
+  of them in details. However, I managed to resist that temptation because I
+  know that it would only distract me from progressing further down the learning
+  path.
